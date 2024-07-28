@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=arch-hyprland
+Description=A breathing merge of the Archlinux and the Hyprland logos
+Comment=created By Levente Markot (@FolkerD0C)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/arch-hyprland
+ScriptFile=/usr/share/plymouth/themes/arch-hyprland/arch-hyprland.script
+
